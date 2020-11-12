@@ -1,0 +1,252 @@
+Broj korisnickih diskova K = 2
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.702
+Iskoriscenja resursa:
+U1 = 0.712; U2 = 0.285; U3 = 0.214; U4 = 0.214; U5 = 0.854; U6 = 0.854; 
+Protoci kroz resurse:
+X1 = 142; X2 = 14.2; X3 = 14.2; X4 = 14.2; X5 = 42.7; X6 = 42.7; 
+Prosecan broj poslova kroz resurse:
+J1 = 2.06; J2 = 0.393; J3 = 0.27; J4 = 0.27; J5 = 3.5; J6 = 3.5; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 2
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.991
+Iskoriscenja resursa:
+U1 = 0.757; U2 = 0.303; U3 = 0.227; U4 = 0.227; U5 = 0.909; U6 = 0.909; 
+Protoci kroz resurse:
+X1 = 151; X2 = 15.1; X3 = 15.1; X4 = 15.1; X5 = 45.4; X6 = 45.4; 
+Prosecan broj poslova kroz resurse:
+J1 = 2.75; J2 = 0.432; J3 = 0.293; J4 = 0.293; J5 = 5.62; J6 = 5.62; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 2
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1.28
+Iskoriscenja resursa:
+U1 = 0.779; U2 = 0.312; U3 = 0.234; U4 = 0.234; U5 = 0.935; U6 = 0.935; 
+Protoci kroz resurse:
+X1 = 156; X2 = 15.6; X3 = 15.6; X4 = 15.6; X5 = 46.8; X6 = 46.8; 
+Prosecan broj poslova kroz resurse:
+J1 = 3.23; J2 = 0.451; J3 = 0.305; J4 = 0.305; J5 = 7.85; J6 = 7.85; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 3
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.583
+Iskoriscenja resursa:
+U1 = 0.858; U2 = 0.343; U3 = 0.257; U4 = 0.257; U5 = 0.686; U6 = 0.686; U7 = 0.686; 
+Protoci kroz resurse:
+X1 = 172; X2 = 17.2; X3 = 17.2; X4 = 17.2; X5 = 34.3; X6 = 34.3; X7 = 34.3; 
+Prosecan broj poslova kroz resurse:
+J1 = 3.34; J2 = 0.51; J3 = 0.342; J4 = 0.342; J5 = 1.82; J6 = 1.82; J7 = 1.82; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 3
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.803
+Iskoriscenja resursa:
+U1 = 0.934; U2 = 0.373; U3 = 0.28; U4 = 0.28; U5 = 0.747; U6 = 0.747; U7 = 0.747; 
+Protoci kroz resurse:
+X1 = 187; X2 = 18.7; X3 = 18.7; X4 = 18.7; X5 = 37.3; X6 = 37.3; X7 = 37.3; 
+Prosecan broj poslova kroz resurse:
+J1 = 5.96; J2 = 0.589; J3 = 0.387; J4 = 0.387; J5 = 2.56; J6 = 2.56; J7 = 2.56; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 3
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1.03
+Iskoriscenja resursa:
+U1 = 0.969; U2 = 0.387; U3 = 0.291; U4 = 0.291; U5 = 0.775; U6 = 0.775; U7 = 0.775; 
+Protoci kroz resurse:
+X1 = 194; X2 = 19.4; X3 = 19.4; X4 = 19.4; X5 = 38.7; X6 = 38.7; X7 = 38.7; 
+Prosecan broj poslova kroz resurse:
+J1 = 9.22; J2 = 0.629; J3 = 0.408; J4 = 0.408; J5 = 3.11; J6 = 3.11; J7 = 3.11; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 4
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.544
+Iskoriscenja resursa:
+U1 = 0.919; U2 = 0.367; U3 = 0.276; U4 = 0.276; U5 = 0.551; U6 = 0.551; U7 = 0.551; U8 = 0.551; 
+Protoci kroz resurse:
+X1 = 184; X2 = 18.4; X3 = 18.4; X4 = 18.4; X5 = 27.6; X6 = 27.6; X7 = 27.6; X8 = 27.6; 
+Prosecan broj poslova kroz resurse:
+J1 = 4.15; J2 = 0.565; J3 = 0.375; J4 = 0.375; J5 = 1.13; J6 = 1.13; J7 = 1.13; J8 = 1.13; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 4
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.764
+Iskoriscenja resursa:
+U1 = 0.981; U2 = 0.392; U3 = 0.294; U4 = 0.294; U5 = 0.589; U6 = 0.589; U7 = 0.589; U8 = 0.589; 
+Protoci kroz resurse:
+X1 = 196; X2 = 19.6; X3 = 19.6; X4 = 19.6; X5 = 29.4; X6 = 29.4; X7 = 29.4; X8 = 29.4; 
+Prosecan broj poslova kroz resurse:
+J1 = 8; J2 = 0.64; J3 = 0.415; J4 = 0.415; J5 = 1.38; J6 = 1.38; J7 = 1.38; J8 = 1.38; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 4
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1
+Iskoriscenja resursa:
+U1 = 0.996; U2 = 0.399; U3 = 0.299; U4 = 0.299; U5 = 0.598; U6 = 0.598; U7 = 0.598; U8 = 0.598; 
+Protoci kroz resurse:
+X1 = 199; X2 = 19.9; X3 = 19.9; X4 = 19.9; X5 = 29.9; X6 = 29.9; X7 = 29.9; X8 = 29.9; 
+Prosecan broj poslova kroz resurse:
+J1 = 12.6; J2 = 0.661; J3 = 0.426; J4 = 0.426; J5 = 1.47; J6 = 1.47; J7 = 1.47; J8 = 1.47; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 5
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.529
+Iskoriscenja resursa:
+U1 = 0.946; U2 = 0.378; U3 = 0.284; U4 = 0.284; U5 = 0.454; U6 = 0.454; U7 = 0.454; U8 = 0.454; U9 = 0.454; 
+Protoci kroz resurse:
+X1 = 189; X2 = 18.9; X3 = 18.9; X4 = 18.9; X5 = 22.7; X6 = 22.7; X7 = 22.7; X8 = 22.7; X9 = 22.7; 
+Prosecan broj poslova kroz resurse:
+J1 = 4.64; J2 = 0.593; J3 = 0.39; J4 = 0.39; J5 = 0.797; J6 = 0.797; J7 = 0.797; J8 = 0.797; J9 = 0.797; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 5
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.755
+Iskoriscenja resursa:
+U1 = 0.993; U2 = 0.397; U3 = 0.298; U4 = 0.298; U5 = 0.477; U6 = 0.477; U7 = 0.477; U8 = 0.477; U9 = 0.477; 
+Protoci kroz resurse:
+X1 = 199; X2 = 19.9; X3 = 19.9; X4 = 19.9; X5 = 23.8; X6 = 23.8; X7 = 23.8; X8 = 23.8; X9 = 23.8; 
+Prosecan broj poslova kroz resurse:
+J1 = 8.99; J2 = 0.655; J3 = 0.423; J4 = 0.423; J5 = 0.901; J6 = 0.901; J7 = 0.901; J8 = 0.901; J9 = 0.901; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 5
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1
+Iskoriscenja resursa:
+U1 = 0.999; U2 = 0.4; U3 = 0.3; U4 = 0.3; U5 = 0.48; U6 = 0.48; U7 = 0.48; U8 = 0.48; U9 = 0.48; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 24; X6 = 24; X7 = 24; X8 = 24; X9 = 24; 
+Prosecan broj poslova kroz resurse:
+J1 = 13.9; J2 = 0.665; J3 = 0.428; J4 = 0.428; J5 = 0.921; J6 = 0.921; J7 = 0.921; J8 = 0.921; J9 = 0.921; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 6
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.521
+Iskoriscenja resursa:
+U1 = 0.96; U2 = 0.384; U3 = 0.288; U4 = 0.288; U5 = 0.384; U6 = 0.384; U7 = 0.384; U8 = 0.384; U9 = 0.384; U10 = 0.384; 
+Protoci kroz resurse:
+X1 = 192; X2 = 19.2; X3 = 19.2; X4 = 19.2; X5 = 19.2; X6 = 19.2; X7 = 19.2; X8 = 19.2; X9 = 19.2; X10 = 19.2; 
+Prosecan broj poslova kroz resurse:
+J1 = 4.95; J2 = 0.608; J3 = 0.399; J4 = 0.399; J5 = 0.608; J6 = 0.608; J7 = 0.608; J8 = 0.608; J9 = 0.608; J10 = 0.608; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 6
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.753
+Iskoriscenja resursa:
+U1 = 0.997; U2 = 0.399; U3 = 0.299; U4 = 0.299; U5 = 0.399; U6 = 0.399; U7 = 0.399; U8 = 0.399; U9 = 0.399; U10 = 0.399; 
+Protoci kroz resurse:
+X1 = 199; X2 = 19.9; X3 = 19.9; X4 = 19.9; X5 = 19.9; X6 = 19.9; X7 = 19.9; X8 = 19.9; X9 = 19.9; X10 = 19.9; 
+Prosecan broj poslova kroz resurse:
+J1 = 9.53; J2 = 0.66; J3 = 0.426; J4 = 0.426; J5 = 0.66; J6 = 0.66; J7 = 0.66; J8 = 0.66; J9 = 0.66; J10 = 0.66; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 6
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1
+Iskoriscenja resursa:
+U1 = 1; U2 = 0.4; U3 = 0.3; U4 = 0.3; U5 = 0.4; U6 = 0.4; U7 = 0.4; U8 = 0.4; U9 = 0.4; U10 = 0.4; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 20; X6 = 20; X7 = 20; X8 = 20; X9 = 20; X10 = 20; 
+Prosecan broj poslova kroz resurse:
+J1 = 14.5; J2 = 0.666; J3 = 0.428; J4 = 0.428; J5 = 0.666; J6 = 0.666; J7 = 0.666; J8 = 0.666; J9 = 0.666; J10 = 0.666; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 7
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.516
+Iskoriscenja resursa:
+U1 = 0.968; U2 = 0.387; U3 = 0.29; U4 = 0.29; U5 = 0.332; U6 = 0.332; U7 = 0.332; U8 = 0.332; U9 = 0.332; U10 = 0.332; U11 = 0.332; 
+Protoci kroz resurse:
+X1 = 194; X2 = 19.4; X3 = 19.4; X4 = 19.4; X5 = 16.6; X6 = 16.6; X7 = 16.6; X8 = 16.6; X9 = 16.6; X10 = 16.6; X11 = 16.6; 
+Prosecan broj poslova kroz resurse:
+J1 = 5.16; J2 = 0.617; J3 = 0.404; J4 = 0.404; J5 = 0.488; J6 = 0.488; J7 = 0.488; J8 = 0.488; J9 = 0.488; J10 = 0.488; J11 = 0.488; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 7
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.752
+Iskoriscenja resursa:
+U1 = 0.998; U2 = 0.399; U3 = 0.299; U4 = 0.299; U5 = 0.342; U6 = 0.342; U7 = 0.342; U8 = 0.342; U9 = 0.342; U10 = 0.342; U11 = 0.342; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 17.1; X6 = 17.1; X7 = 17.1; X8 = 17.1; X9 = 17.1; X10 = 17.1; X11 = 17.1; 
+Prosecan broj poslova kroz resurse:
+J1 = 9.85; J2 = 0.662; J3 = 0.427; J4 = 0.427; J5 = 0.519; J6 = 0.519; J7 = 0.519; J8 = 0.519; J9 = 0.519; J10 = 0.519; J11 = 0.519; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 7
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1
+Iskoriscenja resursa:
+U1 = 1; U2 = 0.4; U3 = 0.3; U4 = 0.3; U5 = 0.343; U6 = 0.343; U7 = 0.343; U8 = 0.343; U9 = 0.343; U10 = 0.343; U11 = 0.343; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 17.1; X6 = 17.1; X7 = 17.1; X8 = 17.1; X9 = 17.1; X10 = 17.1; X11 = 17.1; 
+Prosecan broj poslova kroz resurse:
+J1 = 14.8; J2 = 0.666; J3 = 0.428; J4 = 0.428; J5 = 0.522; J6 = 0.522; J7 = 0.522; J8 = 0.522; J9 = 0.522; J10 = 0.522; J11 = 0.522; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 8
+Stepen multiprogramiranja N = 10
+
+Vreme odziva sistema T = 0.514
+Iskoriscenja resursa:
+U1 = 0.973; U2 = 0.389; U3 = 0.292; U4 = 0.292; U5 = 0.292; U6 = 0.292; U7 = 0.292; U8 = 0.292; U9 = 0.292; U10 = 0.292; U11 = 0.292; U12 = 0.292; 
+Protoci kroz resurse:
+X1 = 195; X2 = 19.5; X3 = 19.5; X4 = 19.5; X5 = 14.6; X6 = 14.6; X7 = 14.6; X8 = 14.6; X9 = 14.6; X10 = 14.6; X11 = 14.6; X12 = 14.6; 
+Prosecan broj poslova kroz resurse:
+J1 = 5.3; J2 = 0.623; J3 = 0.407; J4 = 0.407; J5 = 0.407; J6 = 0.407; J7 = 0.407; J8 = 0.407; J9 = 0.407; J10 = 0.407; J11 = 0.407; J12 = 0.407; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 8
+Stepen multiprogramiranja N = 15
+
+Vreme odziva sistema T = 0.751
+Iskoriscenja resursa:
+U1 = 0.999; U2 = 0.399; U3 = 0.3; U4 = 0.3; U5 = 0.3; U6 = 0.3; U7 = 0.3; U8 = 0.3; U9 = 0.3; U10 = 0.3; U11 = 0.3; U12 = 0.3; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 15; X6 = 15; X7 = 15; X8 = 15; X9 = 15; X10 = 15; X11 = 15; X12 = 15; 
+Prosecan broj poslova kroz resurse:
+J1 = 10.1; J2 = 0.663; J3 = 0.427; J4 = 0.427; J5 = 0.427; J6 = 0.427; J7 = 0.427; J8 = 0.427; J9 = 0.427; J10 = 0.427; J11 = 0.427; J12 = 0.427; 
+-----------------------------------------------------------------------------------------------------------------------
+
+Broj korisnickih diskova K = 8
+Stepen multiprogramiranja N = 20
+
+Vreme odziva sistema T = 1
+Iskoriscenja resursa:
+U1 = 1; U2 = 0.4; U3 = 0.3; U4 = 0.3; U5 = 0.3; U6 = 0.3; U7 = 0.3; U8 = 0.3; U9 = 0.3; U10 = 0.3; U11 = 0.3; U12 = 0.3; 
+Protoci kroz resurse:
+X1 = 200; X2 = 20; X3 = 20; X4 = 20; X5 = 15; X6 = 15; X7 = 15; X8 = 15; X9 = 15; X10 = 15; X11 = 15; X12 = 15; 
+Prosecan broj poslova kroz resurse:
+J1 = 15; J2 = 0.667; J3 = 0.429; J4 = 0.429; J5 = 0.429; J6 = 0.429; J7 = 0.429; J8 = 0.429; J9 = 0.429; J10 = 0.429; J11 = 0.429; J12 = 0.429; 
+-----------------------------------------------------------------------------------------------------------------------
+
